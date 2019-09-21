@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f428b79e-b205-4dee-9f5b-977e46ab4a4b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/main/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f428b79e-b205-4dee-9f5b-977e46ab4a4b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +141,7 @@
       <workItem from="1568875534179" duration="535000" />
       <workItem from="1568879806501" duration="2703000" />
       <workItem from="1568882592288" duration="2323000" />
-      <workItem from="1569058280318" duration="10000" />
+      <workItem from="1569058280318" duration="122000" />
     </task>
     <task id="LOCAL-00001" summary="README.md updated.">
       <created>1568882905367</created>
@@ -156,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568882905367</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Notes added.">
+      <created>1569058359690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569058359690</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="README.md updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md updated." />
+    <MESSAGE value="Notes added." />
+    <option name="LAST_COMMIT_MESSAGE" value="Notes added." />
   </component>
 </project>
